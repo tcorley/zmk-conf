@@ -18,8 +18,7 @@
 #define SYM_LAY 1
 #define NUM_LAY 2
 #define NAV_LAY 3
-#define BTH_LAY 4
-#define KBD_LAY 5
+#define KBD_LAY 4
 
 / {
     keymap {
